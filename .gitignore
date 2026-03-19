@@ -1,0 +1,14 @@
+# Environment and Keys
+.env
+__pycache__/
+
+# Scraper/Agent Output Files
+raw_text.txt
+facts.txt
+geo_audit.json
+geo_optimized.txt
+GEO_COMPARISON_REPORT.md
+
+# Virtual Environments
+venv/
+.venv/
